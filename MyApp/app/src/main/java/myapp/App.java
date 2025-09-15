@@ -9,6 +9,6 @@ public class App {
         greetUser("User");
     }
     public String greetUser(String name) {
-        return "Hello " + name + "!";
+        return "Hello " + name + " !";
     }
 }
